@@ -1,0 +1,5 @@
+name: 'ssh_target'
+version: '0.9.0'
+author: 'Nicholas Bishop'
+email: 'nicholasbishop@gmail.com'
+url: 'https://github.com/nicholasbishop/ssh_target'
