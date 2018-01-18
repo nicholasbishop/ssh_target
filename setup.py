@@ -11,7 +11,7 @@ setuptools.setup(
     url='https://github.com/nicholasbishop/ssh_target',
     author_email='nicholasbishop@gmail.com',
     packages=['ssh_target'],
-    install_requires=[],
+    install_requires=['attrs'],
     entry_points={
         'console_scripts': ['soften = soften.app:main']
     })
