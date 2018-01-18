@@ -7,6 +7,8 @@ name = "pypi"
 
 [packages]
 
+attrs = "*"
+
 
 [dev-packages]
 
